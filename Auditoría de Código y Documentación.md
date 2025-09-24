@@ -1,33 +1,56 @@
-Auditoría de Código y Documentación - StellarTracker dApp
+# ⭐ Lista de Verificación de Auditoría - Stellar MicroLoans dApp
 
-Este checklist define los puntos críticos que deben verificarse para asegurar la calidad del proyecto, basado en el Plan de Calidad y alineado con MoProSoft.
+**Propósito:**  
+Este documento sirve como guía para auditar el código y la documentación del proyecto. Asegura que cada nueva funcionalidad cumple con los estándares de calidad del ecosistema Stellar, vital para la confianza de la comunidad y del comité de la SCF.
+
+**Estado de la Auditoría:**  
+- [ ] En Progreso  
+- [ ] Completado  
+- **Aprobado por el Revisor:** [Nombre del Revisor]
+
+**Fecha de Auditoría:** 22/09/2025  
+**Revisores:** Kevin Cruz, Gibran Jesus
+**Observaciones Adicionales:** 
 
 ---
 
-1. Seguridad del Código
-- [ ] Todas las funciones API validan parámetros de entrada.
-- [ ] No se encuentran vulnerabilidades OWASP Top 10 en el escaneo (OWASP ZAP).
-- [ ] Las credenciales y claves privadas están gestionadas de forma segura (no expuestas en el repo).
-- [ ] Los contratos inteligentes fueron revisados con doble aprobación en PR.
+## Sección 1: Auditoría de Código y Seguridad en la Red Stellar
 
-2. Cumplimiento de Estándares de Código
-- [ ] Todo el código pasa el linter (ESLint, Prettier).
-- [ ] Se siguen las convenciones definidas en el proyecto.
-- [ ] No hay funciones duplicadas ni código muerto.
+| ID     | Criterio de Verificación                   | Descripción                                                                 | Estado      |
+|--------|-------------------------------------------|-----------------------------------------------------------------------------|------------|
+| C-1.1  | Manejo de Transacciones y Firmas           | Verificar que las transacciones estén construidas y firmadas correctamente, incluyendo multifirma. | [ ] Pendiente |
+| C-1.2  | Validación de Entradas (UX y API)         | Validar direcciones (G/S), montos y memos en frontend y backend.           | [ ] Pendiente |
+| C-1.3  | Uso de Claves Privadas                     | Asegurar que nunca se guarden en servidores ni se expongan de forma insegura. | [ ] Pendiente |
+| C-1.4  | Gestión de Cuentas y Fideicomisos         | Verificar creación de cuentas, trustlines y tarifas.                        | [ ] Pendiente |
+| C-1.5  | Integración con Soroban (si aplica)       | Validar invocaciones, datos y eventos en smart contracts.                   | [ ] Pendiente |
+| C-1.6  | Gestión de Errores de la API Horizon      | Implementar manejo robusto de fallos en llamadas a Horizon.                 | [ ] Pendiente |
 
-3. Pruebas y Cobertura
-- [ ] Cobertura mínima del 80% en pruebas unitarias (Jest/Mocha).
-- [ ] Todas las pruebas de integración en Stellar Testnet pasan exitosamente (Cypress).
-- [ ] Los reportes de cobertura están disponibles en `/docs/testing`.
+---
 
-4. Documentación
-- [ ] El archivo `README.md` está actualizado y describe la instalación y uso.
-- [ ] El archivo `ARCHITECTURE.md` refleja la arquitectura actual del sistema.
-- [ ] El archivo `USER_GUIDE.md` tiene instrucciones claras para usuarios finales.
-- [ ] Se han actualizado las FAQs con las últimas consultas relevantes.
+## Sección 2: Auditoría de Documentación y Usabilidad
 
-5. Configuración y Versionado
-- [ ] El repositorio sigue el flujo Git Flow (main, develop, feature/*, hotfix/*).
-- [ ] Todas las releases siguen SemVer (ejemplo: v1.2.0).
-- [ ] El pipeline CI/CD funciona en Testnet y Producción.
-- [ ] Cada release tiene notas publicadas en GitHub.
+| ID     | Criterio de Verificación                  | Descripción                                                               | Estado      |
+|--------|------------------------------------------|---------------------------------------------------------------------------|------------|
+| D-2.1  | Guía de Configuración Completa            | Documentación con pasos claros para instalación y ejecución.              | [ ] Pendiente |
+| D-2.2  | Diagramas de Arquitectura (SCF)          | Incluir diagrama de alto nivel con la interacción dApp ↔ Stellar.         | [ ] Pendiente |
+| D-2.3  | Documentación de la API (SEP)            | Si aplica, documentar el uso y cumplimiento de protocolos SEP.           | [ ] Pendiente |
+| D-2.4  | Manual de Usuario                         | Manual sencillo para público no técnico.                                   | [ ] Pendiente |
+
+---
+
+## Sección 3: Cumplimiento y Ecosistema de la SCF
+
+| ID     | Criterio de Verificación                  | Descripción                                                               | Estado      |
+|--------|------------------------------------------|---------------------------------------------------------------------------|------------|
+| E-3.1  | Licencia de Código Abierto                | Incluir licencia como MIT o Apache 2.0.                                   | [ ] Pendiente |
+| E-3.2  | Política de Privacidad y Términos        | Redactar y publicar si se manejan datos personales.                       | [ ] Pendiente |
+| E-3.3  | Canales de Comunicación                   | Incluir Discord, Telegram u otros canales de soporte.                     | [ ] Pendiente |
+| E-3.4  | Alineación con Objetivos SCF              | Destacar cómo el proyecto apoya inclusión financiera o pagos transfronterizos. | [ ] Pendiente |
+
+---
+
+## Notas de Auditoría
+- **Fecha de Auditoría:** 22/09/2025  
+- **Revisores:**  
+- **Observaciones Adicionales:**  
+  - [Espacio para comentarios sobre hallazgos, mejoras o recomendaciones]
