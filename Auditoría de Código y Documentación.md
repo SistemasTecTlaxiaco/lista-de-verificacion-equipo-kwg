@@ -48,9 +48,3 @@ Este documento sirve como guía para auditar el código y la documentación del 
 | E-3.4  | Alineación con Objetivos SCF              | Destacar cómo el proyecto apoya inclusión financiera o pagos transfronterizos. | [ ] Pendiente |
 
 ---
-
-## Notas de Auditoría
-- **Fecha de Auditoría:** 22/09/2025  
-- **Revisores:**  
-- **Observaciones Adicionales:**  
-  - [Espacio para comentarios sobre hallazgos, mejoras o recomendaciones]
