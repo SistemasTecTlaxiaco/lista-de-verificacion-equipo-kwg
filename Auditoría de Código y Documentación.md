@@ -6,7 +6,7 @@ Este documento sirve como guía para auditar el código y la documentación del 
 **Estado de la Auditoría:**  
 - [ ] En Progreso  
 - [ ] Completado  
-- **Aprobado por el Revisor:** [Nombre del Revisor]
+- [ ] Aprobado por el Revisor: [Nombre del Revisor]
 
 **Fecha de Auditoría:** 22/09/2025  
 **Revisores:** Kevin Cruz, Gibran Jesus
