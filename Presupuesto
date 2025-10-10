@@ -1,0 +1,78 @@
+# 💰 Viabilidad Económica – Modelo Stellar para ShareCar DApp
+
+## Filosofía del Presupuesto Stellar
+Aplicamos la metodología Stellar: "Hacer más con menos, pero mejor".  
+Objetivo: Maximizar el impacto real de ShareCar mientras optimizamos cada recurso.
+
+---
+
+## INVERSIÓN INICIAL – $380,000 MXN (Optimizado vs estimación tradicional)
+
+| Componente               | Presupuesto Stellar | Enfoque Tradicional | Justificación Stellar |
+|--------------------------|-------------------|-------------------|---------------------|
+| Desarrollo Técnico       | $200,000 MXN      | $320,000 MXN      | • MVP funcional en 6 semanas<br>• Full-stack open-source<br>• Integración Web3 mínima viable |
+| Infraestructura          | $50,000 MXN       | $90,000 MXN       | • Hosting escalable (AWS Lite)<br>• CDN y backups automáticos<br>• Monitoreo en tiempo real |
+| Experiencia de Usuario   | $40,000 MXN       | $70,000 MXN       | • UX/UI optimizado para estudiantes<br>• Testeo en grupos piloto<br>• Prototipos iterativos rápidos |
+| Marketing Inteligente    | $60,000 MXN       | $100,000 MXN      | • Campañas de crecimiento orgánico<br>• Colaboración con universidades y grupos estudiantiles<br>• Referral program inicial |
+| Contingencias            | $30,000 MXN       | $50,000 MXN       | 8% del total – suficiente para ajustes en MVP y pruebas |
+
+---
+
+## FLUJOS DE INGRESO – MODELO STELLAR
+
+*Fase 1 (Meses 1-3): Tracción*  
+- Comisión del 4% sobre rides compartidos (vs. 7% tradicional)  
+- Objetivo: captar usuarios rápidamente y generar confianza  
+
+*Fase 2 (Meses 4-6): Monetización Inicial*  
+- Suscripción premium de $49 MXN/mes con ventajas exclusivas (vs $79 MXN tradicional)  
+- Publicidad contextual limitada a partners educativos  
+- Servicios premium para universidades y asociaciones estudiantiles  
+
+*Fase 3 (Meses 7-12): Escalación*  
+- Integración con APIs externas (pagos, geolocalización avanzada)  
+- White-label para universidades o municipios interesados  
+- Funciones avanzadas para eventos y viajes educativos  
+
+---
+
+## PROYECCIONES FINANCIERAS STELLAR
+
+| Métrica                        | Stellar       | Tradicional   | Ventaja Stellar                 |
+|--------------------------------|--------------|---------------|--------------------------------|
+| Punto de Equilibrio             | 4 meses      | 8 meses       | +4 meses de ventaja            |
+| Usuarios Año 1                  | 10,000       | 6,000         | +67% crecimiento               |
+| ROI Año 1                       | 60%          | 38%           | +22 puntos porcentuales        |
+| CAC (Costo Adquisición Cliente) | $28 MXN      | $55 MXN       | -49% más eficiente              |
+
+---
+
+## VENTAJAS COMPETITIVAS DEL MODELO STELLAR
+1. *Velocidad de Ejecución:* MVP funcional en 6 semanas vs 12 semanas tradicionales  
+2. *Validación Temprana:* Primeros ingresos en el mes 2  
+3. *Crecimiento Orgánico:* Basado en recomendaciones y redes estudiantiles  
+4. *Sostenibilidad Financiera:* Costos optimizados desde el inicio, minimizando riesgo  
+5. *Escalabilidad Flexible:* Infraestructura cloud ligera que crece con la demanda  
+
+---
+
+## RIESGOS FINANCIEROS Y MITIGACIÓN STELLAR
+
+| Riesgo                         | Mitigación Stellar                                         |
+|--------------------------------|-----------------------------------------------------------|
+| Baja adopción inicial           | Programa de “Early Adopters” con incentivos en rides gratis |
+| Competencia agresiva            | Diferenciación con enfoque en seguridad, confiabilidad y UX |
+| Escalabilidad técnica           | Arquitectura serverless, paga solo por uso real           |
+| Cambios regulatorios locales    | Consultoría legal preventiva y adaptabilidad del MVP      |
+
+---
+
+## CONCLUSIÓN FINANCIERA STELLAR
+El modelo Stellar para *ShareCar DApp* convierte el proyecto en una *oportunidad de inversión rápida y eficiente*, ofreciendo:
+
+- ROI acelerado (60% vs 38%)  
+- Menor riesgo operativo y financiero  
+- Crecimiento orgánico y escalable  
+- Alta adopción inicial gracias a incentivos estratégicos  
+
+*Recomendación:* Proceder con la inversión inicial de *$380,000 MXN* bajo el modelo Stellar, asegurando MVP funcional, validación temprana y adopción sostenida en la comunidad estudiantil.
