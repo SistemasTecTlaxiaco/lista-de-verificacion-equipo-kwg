@@ -1,0 +1,76 @@
+# AstraBadge: Acta de Constitución del Proyecto
+
+## 📋 Metadatos del Documento
+
+| Propiedad | Valor |
+|-----------|-------|
+| **Nombre del Proyecto** | AstraBadge: Credenciales Estelares Descentralizadas |
+| **Fecha de Creación** | 27 de agosto de 2025 |
+| **Versión del Documento** | 1.1 |
+| **Estado** | Aprobado |
+
+## 🚀 1. Nombre del Proyecto
+
+**AstraBadge: Credenciales Estelares Descentralizadas**
+
+Un ecosistema de certificación digital basado en blockchain Stellar que transforma logros en activos verificables, permitiendo a usuarios recolectar, mostrar y transferir insignias de competencia como activos digitales únicos en una constelación de logros personales.
+
+## 🎯 2. Objetivo del Proyecto
+
+El objetivo principal de este proyecto es desarrollar un sistema de credenciales digitales en la red Stellar que:
+
+- Convierta competencias y logros en activos digitales tokenizados verificables e inmutables.
+- Empodere a usuarios y organizaciones mediante un sistema de certificación transparente, interoperable y resistente a la falsificación.
+- Fomente el desarrollo continuo mediante el reconocimiento visual y transferible de habilidades en forma de constelaciones de logros.
+
+## 📁 3. Alcance y Entregables
+
+### 3.1 Alcance
+
+- Implementar una plataforma web interactiva conectada a Soroban (Stellar) para la emisión, gestión y exhibición de credenciales digitales tokenizadas.
+- Diseñar un sistema de constelaciones temáticas para categorizar insignias:
+  - **TecnoSphere:** Habilidades técnicas (programación, blockchain, data science)
+  - **SoftSkill Nebula:** Habilidades blandas (liderazgo, comunicación, innovación)
+  - **Event Horizon:** Participación en eventos y contribuciones comunitarias
+- Crear un perfil visual donde los usuarios puedan organizar sus insignias formando constelaciones únicas de su trayectoria.
+
+### 3.2 Entregables Principales
+
+- Smart contracts en Soroban para la creación, transferencia y verificación criptográfica de insignias.
+- Galería de insignias digitales con metadata en-chain y diseños visuales personalizables.
+- Plataforma web con dashboards para emisores y galerías personales para usuarios.
+- Sistema de verificación mediante QR code y explorador de constelaciones públicas.
+- Documentación técnica completa y guías de integración para emisores.
+
+## 👥 4. Roles y Responsabilidades
+
+| Rol | Responsable |
+|-----|-------------|
+| **Líder de Proyecto** | Eddi William Gonzalez Leon |
+| **Diseñador de Experiencia e Insignias** | Gibran Jesus Vásquez Reyes |
+| **Arquitecto Blockchain & Smart Contracts** | Kevin Cruz Hernandez |
+| **Desarrollador Full-Stack** | Gibran Jesus Vásquez Reyes |
+
+## ⚠️ 5. Riesgos Iniciales y Plan de Mitigación
+
+| Riesgo | Impacto | Probabilidad | Plan de Mitigación |
+|--------|---------|--------------|-------------------|
+| Complejidad en la implementación de estándares de metadata para insignias. | Alto | Alta | Adoptar estándares abiertos existentes (OpenBadges) y adaptarlos a las capacidades de Stellar. Desarrollo iterativo con feedback constante. |
+| Limitaciones en la escalabilidad de visualización de grandes constelaciones de insignias. | Medio | Media | Implementar sistemas de filtrado, categorización y vistas progresivas. Optimización del frontend para manejo de grandes cantidades de assets. |
+| Dificultades en la experiencia de usuario para no técnicos al interactuar con wallets blockchain. | Alto | Alta | Desarrollo de un sistema de custodia opcional simplificado. Tutoriales interactivos y asistencia paso a paso para primeros usos. |
+| Adopción limitada por parte de emisores de credenciales. | Medio | Media | Crear herramientas de emisión simplificadas y documentación clara. Programa de lanzamiento con emisores piloto estratégicos. |
+| Volatilidad en los costos de transacción de la red Stellar. | Bajo | Baja | Implementar un sistema de fee budgeting y optimización de operaciones on-chain. |
+
+## ✅ Aprobaciones
+
+Este documento fue aprobado por las siguientes partes:
+
+**Nombre y Apellido:** Eddi William Gonzalez Leon  
+**Rol:** Líder del Proyecto  
+**Firma:** *[Firma electrónica]*  
+**Fecha:** 27/08/2025
+
+---
+
+*Documento mantenido en [Repositorio del Proyecto AstraBadge](https://github.com/organizacion/astrabadge)*  
+*Última actualización: 27/08/2025*
