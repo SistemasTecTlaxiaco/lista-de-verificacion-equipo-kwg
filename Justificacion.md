@@ -27,10 +27,10 @@ Con un enfoque transparente, accesible y adaptable, SHARECAR fomenta una red de 
 
 ## 3. Asignación de Roles
 
-- **BETSABÉ ARICEL CASTRO RODRÍGUEZ** – Programador principal: responsable del backend, lógica del sistema y manejo de datos.  
-- **GERARDO NOE REYES ORTIZ** – Diseñador de interfaz gráfica: encargado de la experiencia del usuario y diseño de pantallas.  
-- **JESSICA REYES ROSARIO** – Redactor de documentación: responsable de manuales, políticas y documentación técnica.  
-- **JESSICA REYES ROSARIO** – Coordinador de pruebas: encargado de validar el funcionamiento del sistema y reportar errores.  
+- **GIBRAN JESUS VAZQUEZ REYES** – Programador principal: responsable del backend, lógica del sistema y manejo de datos.  
+- **KEVIN CRUZ HERNANDEZ** – Diseñador de interfaz gráfica: encargado de la experiencia del usuario y diseño de pantallas.  
+- **EDDI WILLIAM GONZALES LEON** – Redactor de documentación: responsable de manuales, políticas y documentación técnica.  
+- **EDDI EILLIAM GONZALES LEON** – Coordinador de pruebas: encargado de validar el funcionamiento del sistema y reportar errores.  
 
 ---
 
